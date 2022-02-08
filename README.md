@@ -34,7 +34,7 @@ The jury will consider the following factors when evaluating the solutions propo
 
 ## References
 ---
-[Dalmau, R. and Allard, E. "Air Traffic Control Using Message Passing Neural Networks and Multi-Agent Reinforcement Learning", 2019. 10th SESAR Innovation Days](https://www.researchgate.net/publication/352537798_Air_Traffic_Control_Using_Message_Passing_Neural_Networks_and_Multi-Agent_Reinforcement_Learning)
+[Dalmau, R. and Allard, E. "Air Traffic Control Using Message Passing Neural Networks and Multi-Agent Reinforcement Learning", 2020. 10th SESAR Innovation Days](https://www.researchgate.net/publication/352537798_Air_Traffic_Control_Using_Message_Passing_Neural_Networks_and_Multi-Agent_Reinforcement_Learning)
 ---
 
 ## Download
