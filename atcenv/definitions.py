@@ -41,7 +41,7 @@ class Airspace:
             p.append(random_point_in_circle(R))
             polygon = Polygon(p).convex_hull
 
-        return Airspace(polygon=polygon)
+        return cls(polygon=polygon)
 
 
 @dataclass
