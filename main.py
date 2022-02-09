@@ -24,7 +24,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # init environment
-    env = Environment(**vars(args))
+    env = Environment(**vars(args.env))
 
     # run episodes
     for e in tqdm(range(args.episodes)):
